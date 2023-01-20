@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Marshy...+I+code">
+<img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Keds...+I+code">
 </p>
 
  <p align="center">
@@ -17,19 +17,19 @@
 <h1 align="center"> 📊 GitHub Stats: </h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Marshxan&show_icons=true&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api?username=KedsDev&show_icons=true&theme=dracula">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshxan&layout=compact&theme=dracula&langs_count=8">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KedsDev&layout=compact&theme=dracula&langs_count=8">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Marshxan&repo=qb-inventoryfood&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KedsDev&repo=qb-inventoryfood&theme=dracula">
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Marshxan&theme=dracula&no-bg=false">
+<img src="https://github-profile-trophy.vercel.app/?username=KedsDev&theme=dracula&no-bg=false">
 </p>
 
 <h3 align="left">Support Me:</h3>
